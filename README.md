@@ -98,3 +98,13 @@ Comento assignment repository
 
 - URL : localhost:8031/sqlyearStatistic?year=20
 - JSON 구조로 출력되는 것을 확인
+
+
+### SW 활용 현황 통게 API 구축을 위한 SQL 작성
+
+- 월별 접속자 수
+- 일자별 접속자 수
+- 평균 하루 로그인 수
+- 부서별 월별 로그인수
+
+---
