@@ -68,3 +68,33 @@ Comento assignment repository
 - 서버에 해당 페이지를 요청한다.
 - 서버는 이 요청에 대한 응답을 생성하여 브라우저에게 전달한다.
 - 브라우저에서 응답(HTML, CSS, Javascript 등)을 해석해 페이지를 보여준다.
+
+---
+
+## 3주차 과제 : RestController를 활용한 간단한 API 구현
+
+### 3-1 : 스프링 부트로 개발환경 설정하기
+
+1) 프로젝트 셋팅
+
+- 스프링 부트 프로젝트 생성
+- Pom.xml 수정
+- application.properties 수정
+  - serverport : 8031
+  - contextPath : /
+  - prefix : /WEB-INF/views
+  - suffix : .jsp
+- /test 테스트 확인
+
+
+![image](https://user-images.githubusercontent.com/62919440/150123292-4852f96f-733d-4aeb-8f48-dfb3c384471a.png)
+
+
+2) 통계(SW 활용 현황) API를 위한 DB, Table 생성
+
+![image](https://user-images.githubusercontent.com/62919440/150123170-a6242329-e14e-4a34-8c36-3c20cd56f140.png)
+
+3) [20년도 로그인 수 API] 스프링부트, Mybatis, mariaDB 연동
+
+- URL : localhost:8031/sqlyearStatistic?year=20
+- JSON 구조로 출력되는 것을 확인
