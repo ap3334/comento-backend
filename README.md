@@ -108,3 +108,25 @@ Comento assignment repository
 - 부서별 월별 로그인수
 
 ---
+
+## 4주차 과제 : API 개발, 문서 보완
+
+- 월별 접속자 수
+
+![image](https://user-images.githubusercontent.com/62919440/151753727-6c6ec26f-5a5a-4a86-bb3e-35f16c6d6af9.png)
+
+- 일자별 접속자 수
+
+![image](https://user-images.githubusercontent.com/62919440/151753661-993b812e-5f17-4607-8f3f-200b72da011e.png)
+
+
+- 평균 하루 로그인 수
+![image](https://user-images.githubusercontent.com/62919440/151753756-cf1aec94-3f83-49e6-b5cd-560135cae16a.png)
+
+
+
+- 부서별 월별 로그인수
+
+![image](https://user-images.githubusercontent.com/62919440/151753788-0179c752-45fa-4ef8-8579-368548348fe4.png)
+
+
